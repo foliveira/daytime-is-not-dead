@@ -1,0 +1,12 @@
+{
+  "name": "daytime-is-not-dead",
+  "version": "1.0.0",
+  "description": "Daytime server running on TCP port 13. Based on RFC 867",
+  "main": "index.js",
+  "repository": "https://github.com/foliveira/daytime-is-not-dead",
+  "author": {
+    "name": "Fábio Oliveira",
+    "url": "http://blog.foliveira.me"
+  },
+  "license": "ISC"
+}
