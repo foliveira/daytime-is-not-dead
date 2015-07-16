@@ -8,5 +8,8 @@
     "name": "Fábio Oliveira",
     "url": "http://blog.foliveira.me"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "daytime-is-not-dead": "./bin/daytime.js"
+  }
 }
